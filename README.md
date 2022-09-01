@@ -1,14 +1,8 @@
-### Hi! Welcome to my Github profile 👋
+### Merhaba! Github profilime hoş geldiniz 👋
 
 
-- 🔭 I’m currently working on programming
-- 🌱 I’m currently learning cyber security
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about anything
-- 📫 How to reach me: Instagram 
-- 😄 Pronouns: She/Her
-- ⚡ Fun fact: ...
+- 🔭 Şu anda programlama üzerinde çalışıyorum
+- 📫 Bana nasıl ulaşırsınız: Instagram, Discord
 
 [![Github Badge](https://img.shields.io/badge/-Github-000?style=quare&labelColor=000&logo=Github&logoColor=white&link=link)](link)
 
